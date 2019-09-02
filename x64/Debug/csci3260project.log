@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(174): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(175): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(179): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(180): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(184): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(185): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(189): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(190): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(211): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(517): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(549): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(581): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(613): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(645): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(677): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(703): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(705): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(739): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(822): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\gunawanmega\desktop\csci3260project\csci3260project\source.cpp(910): warning C4101: 'normalMappingUniformLocation': unreferenced local variable
+  csci3260project.vcxproj -> C:\Users\gunawanmega\Desktop\csci3260project\x64\Debug\csci3260project.exe
+  csci3260project.vcxproj -> C:\Users\gunawanmega\Desktop\csci3260project\x64\Debug\csci3260project.pdb (Partial PDB)
